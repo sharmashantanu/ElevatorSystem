@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508137948 source:d:\other docs\5th semester\lab work\elevatorsystem\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+	<stdio.h>
+	<algorithm>
+	<cmath>
+
